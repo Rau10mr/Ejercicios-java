@@ -1,6 +1,6 @@
 
 
-public class EJ10 {
+public class Ejercicio10T3 {
   public static void main(String[] args) {
   
   String L;
