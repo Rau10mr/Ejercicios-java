@@ -1,5 +1,5 @@
 
-public class EJ3 {
+public class EJ03 {
   public static void main(String[] args) {
   
     int i;
