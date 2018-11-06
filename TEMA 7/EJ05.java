@@ -14,7 +14,17 @@ public class EJ05 {
 		int nmax;
 		int nmin;
 		
-		for (i = 0; i<10; )
-
+		for (i = 0; i < 10; i++){
+			l = System.console.readLine();
+			num[i] = Integer.parseInt(l);
+		
+			if (num[i]>nmax){
+				nmax = num[i];
+			}
+			if (num[i]<nmin){
+				nmin = num[i];
+			}
+		
+		}
 	}
 }
