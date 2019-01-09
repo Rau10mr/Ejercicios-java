@@ -9,7 +9,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author alejandro
+ * @author Raúl y Alejandro (Ejercicio realizado en equipo)
  */
 public class EJ08 {
 
